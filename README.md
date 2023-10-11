@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Carolina
 - ⚡ Fun fact: ...
 
-###Herramientas Usadas 
+### Herramientas Usadas 
 * [Boostrap 4](httpsgetbootstrap.com). El framework web
+*![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
