@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Desarrollo FrontEnd**
 
-- 📫 How to reach me **vick**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
