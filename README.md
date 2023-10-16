@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vickmerys-carolina-caldera-cede%c3%b1o-04053a266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vickmerys-carolina-caldera-cede%c3%b1o-04053a266/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vickmerys-carolina-caldera-cede%c3%b1o-04053a266/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
