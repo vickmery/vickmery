@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Carolina</h1>
 
 
-- 🌱 I’m currently learning **Desarrollo FrontEnd**
+- 🌱 Actualmente me gradue en el Bootcamp de Makaia como  **Desarrolladora FrontEnd**
 
 
 <h3 align="left">Connect with me:</h3>
