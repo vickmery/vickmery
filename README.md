@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-**vickmery/vickmery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Carolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<h1 align="center">Hi 👋, I'm Vickmerys</h1>
+<h1 align="center">Hi 👋, I'm Carolina</h1>
 
 
 - 🌱 I’m currently learning **Desarrollo FrontEnd**
